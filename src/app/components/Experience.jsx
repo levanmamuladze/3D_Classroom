@@ -1,5 +1,5 @@
-"use client"
-import { useAITeacher } from "../../../hooks/useAITeacher";
+"use client";
+import { useAITeacher } from "../hooks/useAITeacher";
 import { useEffect, useRef } from "react";
 
 export const MessagesList = () => {
